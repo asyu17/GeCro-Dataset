@@ -15,6 +15,14 @@
 
 ## Activity
 ### Activity Example
+ Room id  |      Name       |  Room id |  Cool |
+------|------------|------|------|
+ 0 |  <img src="gif/0_writing.gif" width=00/>
+ | 4 | Living-room |
+ 1 |    Classroom 0   |   5 | Study |
+ 2 | Classroom 1 |    6 |   Dormitory room |
+ 3 | Bedroom |     |     |
+
 <center class="half">
 <img src="blob/main/gif/0_writing.gif" width=00/>
 <img src="blob/main/gif/1_using_mobile_phone.gif" width=200/>
@@ -22,7 +30,7 @@
 
 </center>
 <center class="half">
-<img src="blob/main/gif/3_reading.gif" width=200/>
+<img src="https://github.com/asyu17/GeCro-Dataset/blob/main/gif/3_reading.gif" width=200/>
 <img src="blob/main/gif/4_dringking.gif" width=00/>
 <img src="blob/main/gif/5_bending_over_the_desk.gif" width=200/>
 </center>
