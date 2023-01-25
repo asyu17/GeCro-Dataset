@@ -1,7 +1,7 @@
 # GeCro-Dataset
 
 ## Equipment
-![Radar](/GeCro-Dataset/fig/radar.jpg "UWB Radar")
+![Radar](fig/radar.jpg "UWB Radar")
 ## Environment
 ### Enviroment Info
  Room id  |      Name       |  Room id |  Cool |
@@ -11,7 +11,7 @@
  2 | Classroom 1 |    6 |   Dormitory room |
  3 | Bedroom |     |     |
 ### Environment Example
-![Environment](/GeCro-Dataset/fig/environment.png "Environment")
+![Environment](fig/environment.png "Environment")
 
 ## Activity
 ### Activity Example
