@@ -27,14 +27,14 @@
     <td>2_typing</td>
 </tr>
 <tr>
-    <td><img src="gif/3_reading.gif" width=150/></td>
-    <td><img src="gif/4_dringking.gif" width=150/></td>
-    <td><img src="gif/5_bending_over_the_desk.gif" width=150/></td>
+    <td><img src="gif/3_flipping_a_book.gif" width=150/></td>
+    <td><img src="gif/4_drinking.gif" width=150/></td>
+    <td><img src="gif/5_lying_on_a_desk.gif" width=150/></td>
 </tr>
 <tr>
-    <td>3_reading</td>
-    <td>4_dringking</td>
-    <td>5_bending_over_the_desk</td>
+    <td>3_flipping_a_book</td>
+    <td>4_drinking</td>
+    <td>5_lying_on_a_desk</td>
 </tr>
 <tr>
     <td><img src="gif/6_raising_hands.gif" width=150/></td>
