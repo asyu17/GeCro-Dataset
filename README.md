@@ -12,7 +12,8 @@
  3 | Bedroom |     |     |
 ### Environment Example
 ![Environment](fig/environment.png "Environment")
-
+### Environment Plan View
+![img.png](fig/plan_view.png)
 ## Activity
 ### Activity Example
 <table>
